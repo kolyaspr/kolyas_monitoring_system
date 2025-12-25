@@ -1,0 +1,10 @@
+streamlit
+ultralytics
+opencv-python
+numpy
+insightface
+onnxruntime
+pandas
+plotly
+pillow
+av
