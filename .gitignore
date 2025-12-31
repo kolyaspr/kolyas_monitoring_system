@@ -2,8 +2,3 @@
 __pycache__/
 *.pyc
 .DS_Store
-monitor_output/
-*.mp4
-*.mov
-*.avi
-*.mkv
